@@ -8,7 +8,7 @@ use yii\helpers\Url;
 
 /**
  * Class Menu
- * @package hail812\adminlte\widgets
+ * @package rachan\adminlte3\widgets
  *
  * For example,
  *

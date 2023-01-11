@@ -8,7 +8,7 @@ use yii\helpers\Html;
 
 /**
  * Class Callout
- * @package hail812\adminlte\widgets
+ * @package rachan\adminlte3\widgets
  * @example
  * <?= Callout::widget(['type'=>'info', 'head'=>'head string', 'body'=>'body string']) ?>
  * Also possible

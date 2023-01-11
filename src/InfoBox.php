@@ -6,7 +6,7 @@ use yii\helpers\Html;
 
 /**
  * Class InfoBox
- * @package hail812\adminlte\widgets
+ * @package rachan\adminlte3\widgets
  */
 /*
     InfoBox::widget([

@@ -6,7 +6,7 @@ use yii\helpers\Html;
 
 /**
  * Class Ribbon
- * @package hail812\adminlte\widgets
+ * @package rachan\adminlte3\widgets
  *
  * ```php
  * echo Ribbon::widget([

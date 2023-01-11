@@ -7,7 +7,7 @@ use yii\bootstrap4\Widget;
 
 /**
  * Class Alert
- * @package hail812\adminlte\widgets
+ * @package rachan\adminlte3\widgets
  */
 class Alert extends Widget
 {

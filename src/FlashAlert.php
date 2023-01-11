@@ -6,7 +6,7 @@ use yii\bootstrap4\Widget;
 
 /**
  * Class FlashAlert
- * @package hail812\adminlte\widgets
+ * @package rachan\adminlte3\widgets
  *
  * Alert widget renders a message from session flash. All flash messages are displayed
  * in the sequence they were assigned using setFlash. You can set message as following:
